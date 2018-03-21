@@ -1,3 +1,5 @@
+Conner Hartley
+
 # web-page-assignment
 In this assignment you will create a information web page about a country of yuor choice. All work has to take place in the terminal on your Raspberry Pi. Start by setting up your local repos by cloning the assignment repos at GitHub.
 
